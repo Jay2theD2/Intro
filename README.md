@@ -36,7 +36,3 @@ I would like to be in a position where I can create and imagine new possibilites
 
 
 I stumbled upon this industry through researching how to invest the money I had saved from my furniture business. I went down the rabbit hole from the collapse of the fiat system to Bitcoin, and then deeper and deeper into DeFi, and the inner working of Blockchain. My imagination was sparked like it had never been before. I was obsessed for months. The deeper I got the more I wanted to learn. Eventually my partner suggested that I find a support group for people obsessed with Blockchain technology. When I came across the FinTech bootcamp online I finally decided where I was going to invest my money....in myself:)
-
-
-
-![image](https://user-images.githubusercontent.com/104880699/169875727-f20f2653-24be-4c90-9749-a734462e7e5c.png)
