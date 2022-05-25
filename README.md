@@ -1,11 +1,4 @@
-# Intro
-make an intro repository
-# Intro
-Questions from Fin Tech Master Folder/ 1.1 Class Activites/ 0.1 Work Repo/Intro questions
-
-
-    * Who are you? 
-
+# WELCOME :)
 
 I'm Jay Davis.
 I was born into a mennonite family in the conservative small town of Elmira Ontario.
@@ -13,7 +6,7 @@ I had a great childhood filled with sports, music, nature, and lots of love.
 All of these things are still important to me today. 
  
 
-   * What is your background?
+# BACKGROUND
 
 
 Professional actor, Carpenter, Friend, Partner, and Michael Buble Tribute Artist. 
@@ -25,14 +18,14 @@ I also have a love of building and carpentry. I started working construction in 
 
 
 
-    * What are your career goals?
+# GOALS
 
 I would like to be in a position where I can create and imagine new possibilites with a sustainable and stable income, and the ability to work remotely. So far my goals include: Creating a shared solar energy grid, and taking part in the infinite practical applications of NFTs.
 
 
 
 
-    * Why did you choose FinTech as a career path?
+ # WHY FINANCIAL TECHNOLOGY?
 
 
 I stumbled upon this industry through researching how to invest the money I had saved from my furniture business. I went down the rabbit hole from the collapse of the fiat system to Bitcoin, and then deeper and deeper into DeFi, and the inner working of Blockchain. My imagination was sparked like it had never been before. I was obsessed for months. The deeper I got the more I wanted to learn. Eventually my partner suggested that I find a support group for people obsessed with Blockchain technology. When I came across the FinTech bootcamp online I finally decided where I was going to invest my money....in myself:)
